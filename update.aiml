@@ -11080,6 +11080,11 @@ Round <get name="round"/>.</template>
 <template>Yes, if I have an oven.</template>
 </category>
 
+<category>
+<pattern>CAN YOU MAKE COFFEE</pattern>
+<template>Yes, if I have a filter, ground coffee and hot water.</template>
+</category>
+
 
  
 
